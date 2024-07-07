@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A enthusiastic Coder from India</h3>
 
+<img align="right" height="160" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg"  />
+
 <h3 align="left">👩‍💻  About Me</h3>
 
-<img align="right" height="160" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg"  />
+
 <p align="left">🎓 Pursuing BTech in Computer Science and Engineering<br>💡 Passionate about coding, cloud computing, and tech innovations<br>📜 Knodax Certified AWS Cloud Practitioner<br>🏆 Active participant in coding challenges and olympiads<br>🚀 Eager to contribute to open-source projects and collaborate on innovative solutions</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmaditya&label=Profile%20views&color=0e75b6&style=flat" alt="osmaditya" /> </p>
